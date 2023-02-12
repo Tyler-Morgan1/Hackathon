@@ -5,7 +5,7 @@ using UnityEngine;
 public class Spawner : MonoBehaviour
 {
    
-    private int num_of_questions;
+    private int num_of_questions = 10;
     public bool sGame = false;
     private bool gameisRunning = true;
     private Movement liveCounter;
@@ -30,7 +30,9 @@ public class Spawner : MonoBehaviour
     }
 
     IEnumerator startGame(){
-        while(gameisRunning){
+        
+        while(gameisRunning && num_of_questions >= 1){
+            
             yield return new WaitForSeconds(.01f);
             
             int random = Random.Range(0, num_of_questions);
@@ -40,16 +42,18 @@ public class Spawner : MonoBehaviour
             child_transform.gameObject.SetActive(true);
             parentQuestion.transform.GetChild(random).gameObject.SetActive(true);
         //wait until touch
+       
             yield return new WaitUntil(() => sGame == true);
             Destroy(parentQuestion.transform.GetChild(random).gameObject);
             Destroy(child_transform.gameObject);
             sGame = false;
-        }
+            
+         
     
     }
 
    
-    
+    }
 
     
 }
