@@ -60,7 +60,7 @@ if(spawnEnd.transform.childCount <= 0 && lives >= 1){
     }
 
     IEnumerator endScreenGood(){
-        yield return new WaitForSeconds(9.5f);
+        yield return new WaitForSeconds(12.0f);
 if(spawnEnd.transform.childCount <= 0 && lives >= 1){
     endButtons[0].gameObject.SetActive(true);
      endButtons[1].gameObject.SetActive(true);
