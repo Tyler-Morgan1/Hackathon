@@ -5,20 +5,14 @@ This is a repository containing a program formatted to run using Unity.
 The purpose of this program is to help kids who have a particular learning disability or neurological disorder.
 
 ## Learning Disabilities and Autism
-Learning disabilities include dyslexia (difficulty reading), dycalculia (difficulty with math), and 
-dysgraphia (difficulty with writing). All of these are can highly impact a young students life
-and stick with them for years. By the CDC, these three learning disabilities are often paired with 
-emotional and behavioral disorders that make it even harder to do well in school. A young student can
-have a hard time understanding why they
 
-Autism is a neurological disorder that can affect several children, however, this is not something that can 
-be easily diagnosed since this disorder is registered on a spectrum. For young autistic children, there are
-a few different symptoms of autism that can affect their learning and/or impact their ability to socialize.
-Since it is a disorder that has a spectrum, there are children who lack the ability to communicate verbally
-or interect appropriately in social settings, as well as children who are able to hyperfocus and learn a 
+The learning disability we are targeting is dyslexia (difficulty reading), but could also be used to target dycalculia (difficulty with math), and 
+dysgraphia (difficulty with writing). All of these are can highly impact a young students life and stick with them for years. By the CDC, these three learning disabilities are often paired with emotional and behavioral disorders that make it even harder to do well in school. A young student can have a hard time understanding why they
+
+Autism is a neurological disorder that can affect several children, however, this is not something that can be easily diagnosed since this disorder is registered on a spectrum. For young autistic children, there are a few different symptoms of autism that can affect their learning and/or impact their ability to socialize. Since it is a disorder that has a spectrum, there are children who lack the ability to communicate verbally or interect appropriately in social settings, as well as children who are able to hyperfocus and learn a 
 single subject of intrest in extreme depth and detail. 
 
->[https://www.cdc.gov/ncbddd/developmentaldisabilities/facts-about-intellectual-disability.html]
+[https://www.cdc.gov/ncbddd/developmentaldisabilities/facts-about-intellectual-disability.html]
 
 
 ## Benefits
@@ -32,7 +26,7 @@ way. This format can also help improve motor skills, as they will have to contro
 moves in anticipation of the right answer in the game. And of course, games make us all feel generally happy
 and help us destress. The same 
 
->[https://ablegamers.org/the-benefits-of-playing-video-games-for-people-with-disabilities/#:~:text=Video%20games%20can%20provide%20an,help%20improve%20their%20self%2Desteem.]
+[https://ablegamers.org/the-benefits-of-playing-video-games-for-people-with-disabilities/#:~:text=Video%20games%20can%20provide%20an,help%20improve%20their%20self%2Desteem.]
 
 ## Game Play
 
