@@ -1,6 +1,6 @@
 # HACKATHONNNN
 
-This is a repository containing a program formatted to run using Unity.
+This is a repository containing a game program formatted to run using Unity.
 
 ## Purpose:
 
@@ -24,6 +24,8 @@ These disorders and disabilities can be stressful for a young, and still learnin
 [https://ablegamers.org/the-benefits-of-playing-video-games-for-people-with-disabilities/#:~:text=Video%20games%20can%20provide%20an,help%20improve%20their%20self%2Desteem.]
 
 ## Game Play
+
+The current version is meant for kids of lower elementary age, who are suspected or already diagnosed with a disorder or disability that hinders their ability to learn. They can play with parental or teacher guidance to ensure that they are understanding or attempting to play the game.
 
 ### Play
 
